@@ -1,2 +1,1 @@
-#GIT
 Working with GIT
