@@ -1,2 +1,2 @@
-# test_git
+#GIT
 Working with GIT
